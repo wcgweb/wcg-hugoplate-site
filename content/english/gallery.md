@@ -9,4 +9,18 @@ author: "Williamsburg Community Garden"
 tags: ["photos", "community", "gardening"]
 draft: false
 ---
-{{< gallery dir="images/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+
+{{< toc >}}
+
+## Events
+
+{{< gallery dir="images/gallery/events" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+
+## Produce
+
+
+{{< gallery dir="images/gallery/produce" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+
+## Build
+
+{{< gallery dir="images/gallery/build" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}} 

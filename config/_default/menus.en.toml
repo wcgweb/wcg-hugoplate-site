@@ -13,7 +13,7 @@ weight = 2
 
 [[main]]
 name = "Registration"
-url = "/elements"
+url = "/registration"
 weight = 3
 
 [[main]]
@@ -63,8 +63,8 @@ url = "/about"
 weight = 1
 
 [[footer]]
-name = "Elements"
-url = "/elements"
+name = "Registration"
+url = "/registration"
 weight = 2
 
 [[footer]]

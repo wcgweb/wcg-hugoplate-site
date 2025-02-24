@@ -8,7 +8,7 @@ banner:
   button:
     enable: true
     label: "Join Us"
-    link: "/elements"
+    link: "/registration"
 
 # Features
 # Features
