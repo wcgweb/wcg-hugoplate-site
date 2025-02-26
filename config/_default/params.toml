@@ -62,11 +62,11 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
-twitter = "zeon_studio"
-image = "images/og-image.png"
+keywords = ["Community", "Garden", "Williamsburg", "Green", "Sustainable", "Organic", "Local", "Gardening", "Community Garden", "Williamsburg Community Garden", "WCG", "Green Thumbs", "Good Vibes", "Dig", "Grow", "Connect"]
+description = "Williamsburg Community Garden - Dig, Grow, Connect: Where Green Thumbs and Good Vibes Flourish!"
+author = "WCG Admin"
+twitter = "wcg"
+image = "images/banner.png"
 
 
 # site verifications
