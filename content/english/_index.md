@@ -38,7 +38,7 @@ features:
     button:
       enable: true
       label: "Become a Member"
-      link: "/join"
+      link: "/registration"
 
   - title: "Our Commitment to Sustainability & Community"
     image: "/images/garden-3.png"
