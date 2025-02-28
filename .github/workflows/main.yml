@@ -33,6 +33,11 @@ jobs:
       - name: Build Hugo site
         run: hugo --minify
 
+      - name: Ensure CNAME is included
+        run: |
+          echo "www.williamsburgcommunitygarden.org" > ./public/CNAME
+
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
