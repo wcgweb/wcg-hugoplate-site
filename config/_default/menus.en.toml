@@ -35,10 +35,10 @@ weight = 5
 # name = "Blog"
 # url = "/blog"
 
-# [[main]]
+[[main]]
 # parent = "Pages"
-# name = "Contact"
-# url = "/contact"
+name = "Contact"
+url = "/contact"
 
 # [[main]]
 # parent = "Pages"
