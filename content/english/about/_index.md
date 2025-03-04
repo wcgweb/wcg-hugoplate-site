@@ -26,4 +26,4 @@ At WCG, we believe that a strong community starts with shared experiences and a 
 Whether you're an experienced gardener or a beginner, there’s a place for you at WCG. Be part of a growing movement that nurtures both the land and the community.  
 
 ### 🌻 Get Involved Today!  
-[Sign Up](#) | [Contact Us](#)
+[Sign Up](/registration) | [Contact Us](/contactus)

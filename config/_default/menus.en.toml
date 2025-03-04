@@ -7,39 +7,36 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "About"
-url = "/about"
-weight = 2
-
-[[main]]
 name = "Registration"
 url = "/registration"
-weight = 3
+weight = 2
 
 [[main]]
 name = "Blog"
 url = "/blog"
-weight = 4
+weight = 3
 
 [[main]]
 name = "Gallery"
 url = "/gallery"
-weight = 5
+weight = 4
 
 # [[main]]
 # weight = 4
 # name = "Pages"
 
-# [[main]]
-# parent = "Pages"
-# name = "Blog"
-# url = "/blog"
+[[main]]
+name = "About"
+url = "/about"
+weight = 5
 
 [[main]]
 # parent = "Pages"
 name = "Contact"
-url = "/contact"
+url = "/contactus"
+weight = 6
 
+[[main]]
 # [[main]]
 # parent = "Pages"
 # name = "Authors"
