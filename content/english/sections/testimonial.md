@@ -26,6 +26,6 @@ testimonials:
     content: "It was the first time I ever had a garden with enough sun to grow vegetables.  I looked forward to visiting it and watching its progress.  I was always delighted to find tomatoes, beans and carrots ready to eat.  It was also nice to meet some of the other gardeners and see what they were growing."
 
 # don't create a separate page
-_build:
+build:
   render: "never"
 ---
