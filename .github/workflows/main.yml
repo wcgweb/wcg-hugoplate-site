@@ -24,7 +24,7 @@ jobs:
       - name: Install Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'  # Use the latest stable Node.js version
+          node-version: '22'  # Use the latest stable Node.js version
 
       - name: Install PostCSS and Dependencies
         run: |
